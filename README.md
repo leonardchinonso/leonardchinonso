@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [bitcoin-k256](https://github.com/leonardchinonso/bitcoin-k256)
 
+- 🔭 Notable projects I have contributed to include: [erigon](https://github.com/ledgerwatch/erigon) [starkware](https://starkware.co/starknet/)
+
 - 👯 I’m looking to collaborate on **Projects around distributed systems and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leonardchinonso](https://github.com/leonardchinonso)
