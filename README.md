@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardchinonso" alt="leonardchinonso" /></a> </p>
 
-- 🔭 I’m currently working on [bitcoin-k256](https://github.com/leonardchinonso/bitcoin-k256) and [rlox](https://github.com/leonardchinonso/rlox)
+- 🔭 I’m a software engineer at [Meta](meta.com) working on cool stuff. Current personal projects include: [](https://github.com/leonardchinonso/iridium77), [bitcoin-k256](https://github.com/leonardchinonso/bitcoin-k256), and [rlox](https://github.com/leonardchinonso/rlox)
 
 - 🔭 Notable projects I have contributed to include: [erigon](https://github.com/ledgerwatch/erigon) and [starkware](https://starkware.co/starknet/)
 
