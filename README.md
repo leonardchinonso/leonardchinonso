@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardchinonso" alt="leonardchinonso" /></a> </p>
 
-- 🔭 I’m a software engineer at [Meta](www.meta.com) working on cool stuff. Current personal projects include: [iridium77](https://github.com/leonardchinonso/iridium77), [bitcoin-k256](https://github.com/leonardchinonso/bitcoin-k256), and [rlox](https://github.com/leonardchinonso/rlox)
+- 🔭 I’m a software engineer at [Meta](https://meta.com) working on cool stuff. Current personal projects include: [iridium77](https://github.com/leonardchinonso/iridium77), [bitcoin-k256](https://github.com/leonardchinonso/bitcoin-k256), and [rlox](https://github.com/leonardchinonso/rlox)
 
 - 🔭 Notable projects I have contributed to include: [erigon](https://github.com/ledgerwatch/erigon) and [starkware](https://starkware.co/starknet/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **leokingluthers@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13HpA908oP9IdoM3Klku01n3G-MGNA9BP/view?usp=sharing](https://drive.google.com/file/d/13HpA908oP9IdoM3Klku01n3G-MGNA9BP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b9THRsoQBu61DDqOd6CI-34Tv5KzisGd/view?usp=drive_link)
 
 - ⚡ Fun fact **I am actually very very funny**
 
